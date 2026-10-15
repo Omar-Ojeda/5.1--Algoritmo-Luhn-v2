@@ -324,7 +324,6 @@ FROM vista_catalogo_netflix
 LIMIT 10;
 ```
 
-> **Importante:** el nombre de la base de datos y el orden de ejecución deben coincidir con el contenido real de los archivos SQL que se entreguen. Si el script principal ya crea y selecciona `proyectoFinalDB_v2`, no es necesario crearla manualmente antes de ejecutarlo.
 
 ### 6.3. Si se utiliza el CSV original
 
