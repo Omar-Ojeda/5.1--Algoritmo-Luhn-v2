@@ -36,8 +36,6 @@ El siguiente diagrama representa las tablas de la base de datos y sus relaciones
 
 ![Diagrama entidad-relación de la base de datos](Proyecto%20Final%20DER.png)
 
-> **Nota:** guardá la imagen del diagrama en la misma carpeta que este README con el nombre `Proyecto Final DER.png`. Si el archivo tiene otro nombre o está en otra carpeta, actualizá la ruta de la imagen.
-
 ---
 
 ## 3. Código utilizado para la normalización
@@ -372,8 +370,6 @@ ProyectoFinal/
 - **`app.py`**: archivo principal de la aplicación Flask. Se encarga de iniciar el servidor y conectar la interfaz con la base de datos.
 - **`requirements.txt`**: lista las dependencias de Python necesarias para ejecutar el proyecto.
 - **`README.md`**: documento con la descripción del proyecto y las instrucciones de instalación e importación.
-
-> **Nota:** el árbol anterior es un ejemplo de organización. Si los nombres reales de los archivos o la ubicación de la carpeta de normalización son diferentes, ajustá el árbol para que coincida exactamente con la carpeta que vas a entregar.
 
 ### Instalación de dependencias y ejecución
 
